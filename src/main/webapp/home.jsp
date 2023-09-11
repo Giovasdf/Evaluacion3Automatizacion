@@ -12,7 +12,8 @@
     <div class="row">
         <div class="col-md-6 offset-md-3">
             <div class="alert alert-success" role="alert">
-                ¡Inicio de sesión exitoso! Bienvenido.
+                <!-- show variable message from servlet of java class -->
+                <h4 class="alert-heading">¡Bienvenido!</h4>
             </div>
             <a href="index.jsp" class="btn btn-primary">Volver a Iniciar Sesión</a>
         </div>
